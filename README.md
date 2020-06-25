@@ -20,7 +20,7 @@ For more information, please review RABBDA [here](https://rabbda.readthedocs.io/
 
 ### University portal
 
-The University portal (https://github.com/UoW-CPC/rabbda-university-portal) is a proof of concept application that aims to demonstrate how Big Data can be used to create complex Big Data solutions. Additionally, by implementing various releases, we present how a project evolves through multiple iterations.
+The [University portal](https://github.com/UoW-CPC/rabbda-university-portal) is a proof of concept application that aims to demonstrate how Big Data can be used to create complex Big Data solutions. Additionally, by implementing various releases, we present how a project evolves through multiple iterations.
 
 The application exports relational data from RDMBS and analyse them with Big Data technologies.
 To more detail the application aims to analyse students data to answer complex scientific question relating to students performance.
