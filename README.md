@@ -41,5 +41,5 @@ To more detail, static data for cities and seismograph stations are being associ
 
 ## Tutorials
 
-* [Spark tutorial](https://github.com/UoW-CPC/rabbda-spark-tutorial)
+* Spark and Map reduce with Python, eview the examples [here](https://github.com/UoW-CPC/rabbda-spark-MapReduce-examples.git).
 
