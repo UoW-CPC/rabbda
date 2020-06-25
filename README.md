@@ -35,5 +35,5 @@ To more detail, static data for cities and seismograph stations are being associ
 
 ## Tutorials
 
-1. Spark tutorial
+1. [Spark tutorial](https://github.com/UoW-CPC/rabbda-spark-tutorial)
 
