@@ -35,9 +35,9 @@ To more detail, static data for cities and seismograph stations are being associ
 
 ## Sample solutions
 
-1. Real-time steaming twitter data to HDFS with Apache Kafka
-2. A Extract-Transform-Load (ETL) pipeline with Apache Hive
-3. Real-time data ingestions to HDFS with Apache Flume
+1. Real-time steaming twitter data to HDFS with Apache Kafka, https://github.com/UoW-CPC/rabbda-kafka-twitter
+2. A Extract-Transform-Load (ETL) pipeline with Apache Hive, https://github.com/UoW-CPC/rabbda-hive-etl-pipeline
+3. Real-time data ingestions to HDFS with Apache Flume, https://github.com/UoW-CPC/rabbda-earthquakes-realtime
 
 ## Tutorials
 
