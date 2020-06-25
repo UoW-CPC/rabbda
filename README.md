@@ -16,7 +16,7 @@ to facilitate the comprehension of the various aspects of a portal, in this case
 
 For more information, please review RABBDA [here](https://rabbda.readthedocs.io/).
 
-## Demo applications
+## Portals
 
 ### University portal
 
@@ -33,6 +33,11 @@ This demonstration utilises earthquakes data, source: [USGS science for a changi
 
 To more detail, static data for cities and seismograph stations are being associated with earthquakes data acquired from the Rest API. The result of this process produces information such as earthquakes closest cities and seismographic stations, and links to seismographs.
 
+## Sample applications
+
+1. Kafka
+2. Hive
+3. Flume
 ## Tutorials
 
 1. [Spark tutorial](https://github.com/UoW-CPC/rabbda-spark-tutorial)
